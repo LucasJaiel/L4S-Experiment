@@ -6,7 +6,7 @@ To run this experiment we use:
 
 Vagrant (version 2.3.0)
 
-Virtualbox (version 6.1)
+VirtualBox (version 6.1)
 
 L4STEAM MODULE (Kernel tree containing patches for TCP Prague and the dualpi2 qdisc)
 
