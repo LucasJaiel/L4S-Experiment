@@ -4,11 +4,11 @@ This repository contains artifacts and results from an experiment evaluating the
 
 To run this experiment we use:
 
+L4STEAM MODULE (Kernel tree containing patches for TCP Prague and the dualpi2 qdisc)
+
 Vagrant (version 2.3.0)
 
 VirtualBox (version 6.1)
-
-L4STEAM MODULE (Kernel tree containing patches for TCP Prague and the dualpi2 qdisc)
 
 Iperf (version 2.0.13)
 
