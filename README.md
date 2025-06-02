@@ -3,7 +3,9 @@ L4S (Low Latency, Low Loss and Scalable Throughput) is an IETF-proposed architec
 This repository contains artifacts and results from an experiment evaluating the L4S architecture's vulnerability to ECN field manipulation by non-compliant flows. The study focuses on the "non-responsive ECN attack," where a malicious flow (using classic congestion control like Reno, BBR, or Cubic) marks its packets with the ECT(1) codepoint to exploit the low-latency queue but, unlike legitimate L4S flows (e.g., TCP Prague), does not react to congestion signals (CE marks).
 
 
-![Network Topology](/Image/topology.svg)
+<div align="center">
+  <img src="/Image/topology.vsg" alt="Descrição" width="300">
+</div>
 
 To run this experiment we use:
 
