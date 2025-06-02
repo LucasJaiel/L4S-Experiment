@@ -4,7 +4,7 @@ This repository contains artifacts and results from an experiment evaluating the
 
 
 <div align="center">
-  <img src="/Image/topology.vsg" alt="Descrição" width="300">
+  <img src="/Image/topology.svg" alt="Experiment Topology" width="300">
 </div>
 
 To run this experiment we use:
